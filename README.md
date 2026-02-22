@@ -2,18 +2,25 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-brightgreen?style=for-the-badge&logo=vercel)](https://anityping.vercel.app)
 
-An elegant, modern, and feature-rich typing platform designed for performance and aesthetics, following a "Function follows Form" philosophy to create a tool that feels premium and professional.
+An elegant, modern, and feature-rich typing platform designed for performance and aesthetics, balancing a premium UI with high-performance, 60FPS functionality.
 
 **Note:** The source code for this project is private. This repository serves as a public showcase of the live application, its features, and the technologies used to build it.
 
 ---
 
+## 💡 Why I Built This
+
+The core motivation behind AniTyping was to solve a personal frustration: **I couldn't find a typing website that allowed me to practice *only* the specific letters I kept getting wrong.** Most platforms force you to type generalized text or random paragraphs, which is inefficient for correcting targeted muscle-memory errors. I built AniTyping specifically around a **Custom Key Practice** engine, allowing users to isolate their weakest keystrokes and drill them instantly without distractions.
+
+---
+
 ## ✨ Key Features
 
-* **Advanced Practice Modes**: Includes a dynamic Random Mode, Custom Key Practice to target specific muscle memory, and a high-stakes "perma-death" Endless Mode.
+* **Custom Key Practice (Flagship Feature)**: Target specific muscle memory by generating dynamic practice sets using *only* the specific keys you want to improve. 
+* **Advanced Practice Modes**: Also includes a dynamic Random Mode and a high-stakes "perma-death" Endless Mode to test your limits.
 * **High-Fidelity Feedback**: Features live WPM & accuracy updates, a fully responsive visual keyboard that mirrors input in real-time, and intelligent auto-scrolling to eliminate distractions.
 * **Data-Driven Insights**: Leverages performance charting to render WPM progress graphs and detailed statistical breakdowns at the end of every session.
-* **Immersion & Aesthetics**: Utilizes procedurally generated "thock" and "click" sounds via the Web Audio API for zero latency, wrapped in a premium Glassmorphic UI with Light and Dark mode theming.
+* **Immersion & Aesthetics**: Utilizes procedurally generated "thock" and "click" sounds via the Web Audio API for absolutely zero latency, wrapped in a premium Glassmorphic UI with Light and Dark mode theming.
 
 ---
 
