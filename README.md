@@ -31,17 +31,18 @@ This project was built using a modern, performance-first tech stack:
 
 ## 📸 Project Walkthrough
 
-### 1. The Typing Dashboard
+### 1. Home Page
+Dynamic configurations allowing users to target specific keys, adjust difficulty parameters, or test their limits in Endless Mode.
+![Practice Modes](assets/modes.png)
+
+
+### 2. The Typing Dashboard
 A premium glassmorphic interface featuring a live WPM counter and a responsive visual keyboard that mirrors every keystroke in real-time.
 ![Typing Dashboard](assets/dashboard.png)
 
-### 2. Performance Analytics
+### 3. Performance Analytics
 After each session, users receive a professional-grade Chart.js graph tracking their speed stability and detailed accuracy metrics.
 ![Performance Analytics](assets/analytics.png)
-
-### 3. Custom Practice Modes
-Dynamic configurations allowing users to target specific keys, adjust difficulty parameters, or test their limits in Endless Mode.
-![Practice Modes](assets/modes.png)
 
 ---
 
